@@ -1,0 +1,4 @@
+com\example\itemcounter\controller\ItemController.class
+com\example\itemcounter\ItemCounterApplication.class
+com\example\itemcounter\entity\Item.class
+com\example\itemcounter\repository\ItemRepository.class
